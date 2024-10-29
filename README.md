@@ -1,1 +1,1 @@
-# Datastructures-and-algorithms--courseproject
+Data-structures-and-algorithms-course-project
